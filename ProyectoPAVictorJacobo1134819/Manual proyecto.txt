@@ -1,0 +1,33 @@
+=============================================
+=======Proyecto Music Festival Playlist======
+=============================================
+
+En este programa se pueden ingresar canciones con sus artistas con un archivo csv. 
+El programa puede leer el archivo, ingresar nuevos elementos y mostrar los elementos que actualmente estan en el archivo.
+
+
+
+     ;;;;;;;;;;;;;;;;;;; 
+     ;;;;;;;;;;;;;;;;;;;
+     ;                 ;
+     ;                 ;
+     ;                 ;
+     ;                 ;
+     ;                 ;
+     ;                 ;
+     ;                 ;
+,;;;;;            ,;;;;;
+;;;;;;            ;;;;;;
+`;;;;'            `;;;;'   
+     ; 
+     ;;
+     ;';.
+     ;  ;;
+     ;   ;;
+     ;    ;;
+     ;    ;;
+     ;   ;'
+     ;  ' 
+,;;;,; 
+;;;;;;
+`;;;;'
